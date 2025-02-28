@@ -23,7 +23,7 @@ public class Main {
 				controller.mataNome(JOptionPane.showInputDialog("Insira o nome do processo:"));
 				break;
 			case 9:
-				System.out.println("Programa Finalizado");
+				System.out.println("\nPrograma Finalizado");
 				break;
 
 			default:
